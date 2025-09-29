@@ -1,2 +1,2 @@
 # Power-BI-Project
-Contains KPI Requirement, Power Query and DAX
+Contains KPI Requirements, Power Query and DAX
